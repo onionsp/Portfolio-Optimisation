@@ -7,10 +7,7 @@
 - **Data-Driven Approach**: Utilizes historical stock data for analysis and optimization.
 
 ## Key Concepts
-- **Sharpe Ratio**: A measure of risk-adjusted return, defined as:
-$$
-\text{Sharpe Ratio} = \frac{\text{Expected Return} - \text{Risk-Free Rate}}{\text{Portfolio Volatility}}
-$$
+- **Sharpe Ratio**: A measure of risk-adjusted return
 - **Efficient Frontier**: Demonstrates the optimal portfolios for different levels of risk.
 
 ## Tools and Libraries

@@ -8,9 +8,9 @@
 
 ## Key Concepts
 - **Sharpe Ratio**: A measure of risk-adjusted return, defined as:
-  \[
-  \text{Sharpe Ratio} = \frac{\text{Expected Return} - \text{Risk-Free Rate}}{\text{Portfolio Volatility}}
-  \]
+$$
+\text{Sharpe Ratio} = \frac{\text{Expected Return} - \text{Risk-Free Rate}}{\text{Portfolio Volatility}}
+$$
 - **Efficient Frontier**: Demonstrates the optimal portfolios for different levels of risk.
 
 ## Tools and Libraries
